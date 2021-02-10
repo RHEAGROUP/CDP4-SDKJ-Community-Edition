@@ -77,7 +77,7 @@
     <mvn.versions.plugin.version>2.7</mvn.versions.plugin.version>
     <nexus.staging.plugin.version>1.6.8</nexus.staging.plugin.version>
     <puppycrawl.version>8.18</puppycrawl.version>
-    <logging.version>2.11.2</logging.version>
+    <logging.version>2.13.3</logging.version>
     <apachehttpclient.version>4.1.4</apachehttpclient.version>
     <apachehttpmime.version>4.5.9</apachehttpmime.version>
     <mockito.version>2.27.0</mockito.version>
